@@ -1,0 +1,98 @@
+{
+    "success": true,
+    "city": "深圳",
+    "days": 3,
+    "totalBudget": 1000,
+    "dailyItinerary": [
+        {
+            "day": 1,
+            "date": "第1天",
+            "morning": {
+                "spot": "深圳湾公园",
+                "duration": "2小时",
+                "ticket": 0,
+                "transportation": "地铁9号线",
+                "description": "深圳湾公园是深圳著名的城市公园，拥有美丽的海滨风光和丰富的生态景观，适合散步、骑行和拍照。"
+            },
+            "afternoon": {
+                "spot": "深圳市博物馆",
+                "duration": "2.5小时",
+                "ticket": 10,
+                "transportation": "公交328路",
+                "description": "深圳市博物馆展示了深圳的历史和文化，是了解这座城市发展历程的好去处，免费展览内容丰富。"
+            },
+            "evening": {
+                "spot": "东门步行街",
+                "duration": "3小时",
+                "ticket": 0,
+                "transportation": "地铁1号线",
+                "description": "东门步行街是深圳最繁华的商业区之一，可以品尝当地美食和购物，体验深圳的夜生活。"
+            }
+        },
+        {
+            "day": 2,
+            "date": "第2天",
+            "morning": {
+                "spot": "欢乐谷",
+                "duration": "5小时",
+                "ticket": 290,
+                "transportation": "地铁1号线转公交",
+                "description": "欢乐谷是深圳著名的主题公园，拥有各种刺激的游乐设施和精彩的表演，适合家庭和年轻人游玩。"
+            },
+            "afternoon": {
+                "spot": "深圳野生动物园",
+                "duration": "3小时",
+                "ticket": 150,
+                "transportation": "公交338路",
+                "description": "深圳野生动物园是一个集观赏、互动于一体的动物园，可以看到众多珍稀动物，适合亲子游。"
+            },
+            "evening": {
+                "spot": "华侨城欢乐海岸",
+                "duration": "4小时",
+                "ticket": 0,
+                "transportation": "地铁1号线",
+                "description": "华侨城欢乐海岸是深圳的休闲娱乐综合体，拥有大型购物中心、美食街和夜间灯光秀，适合晚上游玩。"
+            }
+        },
+        {
+            "day": 3,
+            "date": "第3天",
+            "morning": {
+                "spot": "大鹏所城",
+                "duration": "3小时",
+                "ticket": 30,
+                "transportation": "公交228路转出租车",
+                "description": "大鹏所城是中国明清海防的军事要塞，具有深厚的历史文化背景，适合喜欢历史的人参观。"
+            },
+            "afternoon": {
+                "spot": "较场尾海滩",
+                "duration": "3小时",
+                "ticket": 0,
+                "transportation": "出租车",
+                "description": "较场尾海滩是深圳东部最美丽的海滩之一，可以享受阳光、海浪，适合放松和休闲。"
+            },
+            "evening": {
+                "spot": "深圳湾口岸",
+                "duration": "2小时",
+                "ticket": 0,
+                "transportation": "地铁9号线",
+                "description": "深圳湾口岸是连接深圳与香港的重要通道，晚上可以在这里欣赏到深圳与香港的灯光夜景。"
+            }
+        }
+    ],
+    "budgetBreakdown": {
+        "accommodation": 400,
+        "food": 250,
+        "transportation": 150,
+        "tickets": 470,
+        "other": 130
+    },
+    "tips": [
+        "提前购买欢乐谷和野生动物园门票，可以节省排队时间。",
+        "在深圳湾公园和较场尾海滩游玩时，注意防晒和携带足够的饮用水。"
+    ],
+    "warnings": [
+        "深圳的公共交通费用可能因拥堵或临时调整而增加，建议预留额外交通预算。",
+        "部分景点可能在节假日或周末人流量较大，建议避开高峰时段。"
+    ]
+}
